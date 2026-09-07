@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-/* html{
-    scroll-behavior: ;
-} */
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     font-family: Verdana, sans-serif;
